@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+input {
+    border: none;
+    outline: none;
+}
+ul {
+    list-style: none;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.clearfix::after {
+    content: "学成在线";
+    display: block;
+    clear: both;
+    /*font-size: 0;*/
+    line-height: 0;
+    height: 0;
+    visibility: hidden;
+}
+ty {
+    font-size: 20px;
+}
+.eighteen {
+    font-size: 18px;
+}
+.sixTeen {
+    font-size: 16px;
+}
+
+.fourteen {
+    font-size: 14px;
+}
+.twelve {
+    font-size: 12px;
+}
